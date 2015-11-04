@@ -1,0 +1,51 @@
+{
+  "name": "grnai-vis-phenotypes",
+  "description": "Visualisation of gene to phenotype relationships on the GenomeRNAi database",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bene200/grnai-vis-phenotypes",
+  "author": {
+    "name": "Benedikt Rauscher",
+    "email": "b.rauscher@dkfz-heidelberg.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bene200/grnai-vis-phenotypes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bene200/grnai-vis-phenotypes/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bene200/grnai-vis-phenotypes/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+		"test": "echo 'Error: no test specified' && exit 1",
+		"build": "mkdirp build && browserify -r ./:grnai-vis-phenotypes -o build/phenotypes.js",
+		"build-browser": "npm run build",
+		"install": "npm run build",
+		"watch": "watchify -r ./:grnai-vis-phenotypes -v -o build/phenotypes.js",
+		"w": "prunner \"npm run sniper\" \"npm run watch\"",
+		"sniper": "sniper ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+		"mkdirp": "^0.5.0",
+		"browserify": "6.x",
+		"sniper": "0.x",
+		"watchify": "^1.0.6",
+		"prunner": "1.x"
+  },
+  "sniper": {
+    "js": [ "/build/phenotypes.js"],
+    "snippets": ["examples"],
+    "first": "simple",
+    "css": [
+      "/css/style.css",
+      "/css/bootstrap.css"
+    ]
+   },
+  "keywords": ["phenotype","rna","rnai","genomernai","biojs"]
+}
