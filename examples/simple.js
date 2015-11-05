@@ -8,7 +8,7 @@ var elements = {
     { data: { id: 'alstr', name: "Actin filaments lack striation" }, classes: "phenotype" },
     { data: { id: 'mstr', name: "Myosin filaments striated" }, classes: "phenotype" },
     { data: { id: 'msmyo', name: "Muscles with short and/or thin myofibrils" }, classes: "phenotype" },
-    { data: { id: 'mew', mapedId: "32275", geneId: "FBgn0004456", reagentId: ["DRSC18971", "DRSC20352", "DRSC35847"], scoreType: "Percentage of muscles with a given phenotype", cutoff: "Severe: > 80 %; medium: ~ 50 %" }, classes: "gene" },
+    { data: { id: 'mew', mappedId: "32275", geneId: "FBgn0004456", reagentId: ["DRSC18971", "DRSC20352", "DRSC35847"], scoreType: "Percentage of muscles with a given phenotype", cutoff: "Severe: > 80 %; medium: ~ 50 %" }, classes: "gene" },
     { data: { id: 'Fit1' }, classes: "gene" },
     { data: { id: 'Lasp' }, classes: "gene" },
     { data: { id: 'Fit2' }, classes: "gene" },
