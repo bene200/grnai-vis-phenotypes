@@ -1,6 +1,6 @@
 # grnai-vis-phenotypes
 
-[![NPM version](http://img.shields.io/npm/v/grnai-vis-phenotypes.svg)](https://www.npmjs.org/package/grnai-vis-phenotypes) 
+[![NPM version](http://img.shields.io/npm/v/grnai-vis-phenotypes.svg)](https://www.npmjs.org/package/grnai-vis-phenotypes)
 
 > Visualisation of gene to phenotype relationships on the GenomeRNAi database
 
@@ -9,24 +9,11 @@ Install the module with: `npm install grnai-vis-phenotypes`
 
 ```javascript
 var phenotypes = require('grnai-vis-phenotypes');
-phenotypes.hello("biojs"); // "hello biojs"
 ```
 
 ## Documentation
 
-#### .hello(name)
-
-**Parameter**: `name`
-**Type**: `String`
-**Example**: `biojs`
-
-The 'hello' method is responsible for showing a name.
-
-How to use this method
-
-```javascript
-phenotypes.hello('biojs'); // "hello biojs"
-```
+Please have a look at ./examples/simple.js for an example on how to instantiate and use the visualisation.
 
 ## Contributing
 
@@ -36,7 +23,7 @@ All contributions are welcome.
 
 If you have any problem or suggestion please open an issue [here](https://github.com/bene200/grnai-vis-phenotypes/issues).
 
-## License 
+## License
 
 The MIT License
 
