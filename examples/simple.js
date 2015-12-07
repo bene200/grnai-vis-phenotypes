@@ -1,5 +1,3 @@
-var App = require("grnai-vis-phenotypes");
-
 var real = [
   {
     "node": {
@@ -4727,5 +4725,6 @@ var real = [
   }
 ];
 
+var App = require("grnai-vis-phenotypes");
 rootDiv.id = "rootDiv";
 var instance = new App({el: rootDiv,  graph: real});

@@ -39,7 +39,9 @@
 		"prunner": "1.x"
   },
   "sniper": {
-    "js": [ "/build/phenotypes.js"],
+    "js": [
+      "/build/phenotypes.js"
+    ],
     "snippets": ["examples"],
     "first": "simple",
     "css": [
