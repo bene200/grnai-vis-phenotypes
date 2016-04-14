@@ -43,11 +43,10 @@ var real = [
   },
   {
     "node": {
-      "id": 32275,
+      "id": "32275FBgn0004456",
+      "entrezId": 32275,
       "name": "FBgn0004456",
-      "symbols": [
-        "mew"
-      ],
+      "symbols": "mew",
       "reagents": [
         {
           "reagentName": "DRSC18971",
@@ -71,11 +70,10 @@ var real = [
   },
   {
     "node": {
-      "id": 38488,
+      "id": "38488FBgn0035498",
+      "entrezId": 38488,
       "name": "FBgn0035498",
-      "symbols": [
-        "Fit1"
-      ],
+      "symbols": "Fit1",
       "reagents": [
         {
           "reagentName": "DRSC08450",
@@ -95,11 +93,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39864,
+      "id": "39864FBgn0063485",
+      "entrezId": 39864,
       "name": "FBgn0063485",
-      "symbols": [
-        "Lasp"
-      ],
+      "symbols": "Lasp",
       "reagents": [
         {
           "reagentName": "DRSC10379",
@@ -123,11 +120,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39907,
+      "id": "39907FBgn0036688",
+      "entrezId": 39907,
       "name": "FBgn0036688",
-      "symbols": [
-        "Fit2"
-      ],
+      "symbols": "Fit2",
       "reagents": [
         {
           "reagentName": "DRSC10908",
@@ -147,11 +143,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43787,
+      "id": "43787FBgn0025704",
+      "entrezId": 43787,
       "name": "FBgn0025704",
-      "symbols": [
-        "CG2165"
-      ],
+      "symbols": "CG2165",
       "reagents": [
         {
           "reagentName": "DRSC17113",
@@ -179,11 +174,10 @@ var real = [
   },
   {
     "node": {
-      "id": 44291,
+      "id": "44291FBgn0001248",
+      "entrezId": 44291,
       "name": "FBgn0001248",
-      "symbols": [
-        "Idh"
-      ],
+      "symbols": "Idh",
       "reagents": [
         {
           "reagentName": "DRSC10779",
@@ -203,47 +197,46 @@ var real = [
   },
   {
     "edge": {
-      "source": 32275,
+      "source": "32275FBgn0004456",
       "target": "Muscles rounded up"
     }
   },
   {
     "edge": {
-      "source": 38488,
+      "source": "38488FBgn0035498",
       "target": "Muscles rounded up"
     }
   },
   {
     "edge": {
-      "source": 39864,
+      "source": "39864FBgn0063485",
       "target": "Muscles rounded up"
     }
   },
   {
     "edge": {
-      "source": 39907,
+      "source": "39907FBgn0036688",
       "target": "Muscles rounded up"
     }
   },
   {
     "edge": {
-      "source": 43787,
+      "source": "43787FBgn0025704",
       "target": "Muscles rounded up"
     }
   },
   {
     "edge": {
-      "source": 44291,
+      "source": "44291FBgn0001248",
       "target": "Muscles rounded up"
     }
   },
   {
     "node": {
-      "id": 32314,
+      "id": "32314FBgn0004169",
+      "entrezId": 32314,
       "name": "FBgn0004169",
-      "symbols": [
-        "up"
-      ],
+      "symbols": "up",
       "reagents": [
         {
           "reagentName": "DRSC20382",
@@ -263,11 +256,10 @@ var real = [
   },
   {
     "node": {
-      "id": 32794,
+      "id": "32794FBgn0004028",
+      "entrezId": 32794,
       "name": "FBgn0004028",
-      "symbols": [
-        "wupA"
-      ],
+      "symbols": "wupA",
       "reagents": [
         {
           "reagentName": "DRSC20385",
@@ -295,11 +287,10 @@ var real = [
   },
   {
     "node": {
-      "id": 35007,
+      "id": "35007FBgn0002741",
+      "entrezId": 35007,
       "name": "FBgn0002741",
-      "symbols": [
-        "Mhc"
-      ],
+      "symbols": "Mhc",
       "reagents": [
         {
           "reagentName": "DRSC03367",
@@ -327,11 +318,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39002,
+      "id": "39002FBgn0003149",
+      "entrezId": 39002,
       "name": "FBgn0003149",
-      "symbols": [
-        "Prm"
-      ],
+      "symbols": "Prm",
       "reagents": [
         {
           "reagentName": "DRSC11255",
@@ -355,11 +345,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39165,
+      "id": "39165FBgn0025866",
+      "entrezId": 39165,
       "name": "FBgn0025866",
-      "symbols": [
-        "CalpB"
-      ],
+      "symbols": "CalpB",
       "reagents": [
         {
           "reagentName": "DRSC11109",
@@ -379,11 +368,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40232,
+      "id": "40232FBgn0003124",
+      "entrezId": 40232,
       "name": "FBgn0003124",
-      "symbols": [
-        "polo"
-      ],
+      "symbols": "polo",
       "reagents": [
         {
           "reagentName": "DRSC11384",
@@ -407,11 +395,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43587,
+      "id": "43587FBgn0002773",
+      "entrezId": 43587,
       "name": "FBgn0002773",
-      "symbols": [
-        "Mlc2"
-      ],
+      "symbols": "Mlc2",
       "reagents": [
         {
           "reagentName": "DRSC16741",
@@ -435,11 +422,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43633,
+      "id": "43633FBgn0082582",
+      "entrezId": 43633,
       "name": "FBgn0082582",
-      "symbols": [
-        "Tmod"
-      ],
+      "symbols": "Tmod",
       "reagents": [
         {
           "reagentName": "DRSC17062",
@@ -463,11 +449,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43814,
+      "id": "43814FBgn0005666",
+      "entrezId": 43814,
       "name": "FBgn0005666",
-      "symbols": [
-        "bt"
-      ],
+      "symbols": "bt",
       "reagents": [
         {
           "reagentName": "DRSC17129",
@@ -503,11 +488,10 @@ var real = [
   },
   {
     "node": {
-      "id": 49090,
+      "id": "49090FBgn0011286",
+      "entrezId": 49090,
       "name": "FBgn0011286",
-      "symbols": [
-        "Rya-r44F"
-      ],
+      "symbols": "Rya-r44F",
       "reagents": [
         {
           "reagentName": "DRSC07543",
@@ -523,11 +507,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31166,
+      "id": "31166FBgn0000667",
+      "entrezId": 31166,
       "name": "FBgn0000667",
-      "symbols": [
-        "Actn"
-      ],
+      "symbols": "Actn",
       "reagents": [
         {
           "reagentName": "DRSC17724",
@@ -551,11 +534,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31196,
+      "id": "31196FBgn0024984",
+      "entrezId": 31196,
       "name": "FBgn0024984",
-      "symbols": [
-        "CG3457"
-      ],
+      "symbols": "CG3457",
       "reagents": [
         {
           "reagentName": "DRSC18509",
@@ -575,11 +557,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31350,
+      "id": "31350FBgn0029688",
+      "entrezId": 31350,
       "name": "FBgn0029688",
-      "symbols": [
-        "lva"
-      ],
+      "symbols": "lva",
       "reagents": [
         {
           "reagentName": "DRSC18403",
@@ -603,11 +584,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31554,
+      "id": "31554FBgn0003514",
+      "entrezId": 31554,
       "name": "FBgn0003514",
-      "symbols": [
-        "sqh"
-      ],
+      "symbols": "sqh",
       "reagents": [
         {
           "reagentName": "DRSC18837",
@@ -635,11 +615,10 @@ var real = [
   },
   {
     "node": {
-      "id": 33845,
+      "id": "33845FBgn0025742",
+      "entrezId": 33845,
       "name": "FBgn0025742",
-      "symbols": [
-        "mtm"
-      ],
+      "symbols": "mtm",
       "reagents": [
         {
           "reagentName": "DRSC03576",
@@ -667,11 +646,10 @@ var real = [
   },
   {
     "node": {
-      "id": 36405,
+      "id": "36405FBgn0026619",
+      "entrezId": 36405,
       "name": "FBgn0026619",
-      "symbols": [
-        "tafazzin"
-      ],
+      "symbols": "tafazzin",
       "reagents": [
         {
           "reagentName": "DRSC07704",
@@ -695,11 +673,10 @@ var real = [
   },
   {
     "node": {
-      "id": 37190,
+      "id": "37190FBgn0034412",
+      "entrezId": 37190,
       "name": "FBgn0034412",
-      "symbols": [
-        "CG15105"
-      ],
+      "symbols": "CG15105",
       "reagents": [
         {
           "reagentName": "DRSC05768",
@@ -723,11 +700,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39179,
+      "id": "39179FBgn0036068",
+      "entrezId": 39179,
       "name": "FBgn0036068",
-      "symbols": [
-        "CG6640"
-      ],
+      "symbols": "CG6640",
       "reagents": [
         {
           "reagentName": "DRSC10681",
@@ -747,11 +723,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39628,
+      "id": "39628FBgn0023174",
+      "entrezId": 39628,
       "name": "FBgn0023174",
-      "symbols": [
-        "Prosbeta2"
-      ],
+      "symbols": "Prosbeta2",
       "reagents": [
         {
           "reagentName": "DRSC11257",
@@ -771,11 +746,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39765,
+      "id": "39765FBgn0010280",
+      "entrezId": 39765,
       "name": "FBgn0010280",
-      "symbols": [
-        "Taf4"
-      ],
+      "symbols": "Taf4",
       "reagents": [
         {
           "reagentName": "DRSC11297",
@@ -795,11 +769,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39775,
+      "id": "39775FBgn0036579",
+      "entrezId": 39775,
       "name": "FBgn0036579",
-      "symbols": [
-        "CG5027"
-      ],
+      "symbols": "CG5027",
       "reagents": [
         {
           "reagentName": "DRSC10471",
@@ -819,11 +792,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39855,
+      "id": "39855FBgn0002284",
+      "entrezId": 39855,
       "name": "FBgn0002284",
-      "symbols": [
-        "Pros26"
-      ],
+      "symbols": "Pros26",
       "reagents": [
         {
           "reagentName": "DRSC11256",
@@ -843,11 +815,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40143,
+      "id": "40143FBgn0036896",
+      "entrezId": 40143,
       "name": "FBgn0036896",
-      "symbols": [
-        "CG8789"
-      ],
+      "symbols": "CG8789",
       "reagents": [
         {
           "reagentName": "DRSC11046",
@@ -867,11 +838,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40174,
+      "id": "40174FBgn0028695",
+      "entrezId": 40174,
       "name": "FBgn0028695",
-      "symbols": [
-        "Rpn1"
-      ],
+      "symbols": "Rpn1",
       "reagents": [
         {
           "reagentName": "DRSC11274",
@@ -895,11 +865,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40272,
+      "id": "40272FBgn0037001",
+      "entrezId": 40272,
       "name": "FBgn0037001",
-      "symbols": [
-        "CG6020"
-      ],
+      "symbols": "CG6020",
       "reagents": [
         {
           "reagentName": "DRSC11791",
@@ -923,11 +892,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40368,
+      "id": "40368FBgn0027542",
+      "entrezId": 40368,
       "name": "FBgn0027542",
-      "symbols": [
-        "CG6014"
-      ],
+      "symbols": "CG6014",
       "reagents": [
         {
           "reagentName": "DRSC11609",
@@ -951,11 +919,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40530,
+      "id": "40530FBgn0015331",
+      "entrezId": 40530,
       "name": "FBgn0015331",
-      "symbols": [
-        "abs"
-      ],
+      "symbols": "abs",
       "reagents": [
         {
           "reagentName": "DRSC12372",
@@ -975,11 +942,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40542,
+      "id": "40542FBgn0037231",
+      "entrezId": 40542,
       "name": "FBgn0037231",
-      "symbols": [
-        "CG9779"
-      ],
+      "symbols": "CG9779",
       "reagents": [
         {
           "reagentName": "DRSC12332",
@@ -999,11 +965,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40546,
+      "id": "40546FBgn0027866",
+      "entrezId": 40546,
       "name": "FBgn0027866",
-      "symbols": [
-        "CG9776"
-      ],
+      "symbols": "CG9776",
       "reagents": [
         {
           "reagentName": "DRSC12127",
@@ -1023,11 +988,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40559,
+      "id": "40559FBgn0037245",
+      "entrezId": 40559,
       "name": "FBgn0037245",
-      "symbols": [
-        "CG14648"
-      ],
+      "symbols": "CG14648",
       "reagents": [
         {
           "reagentName": "DRSC12002",
@@ -1047,11 +1011,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40593,
+      "id": "40593FBgn0010750",
+      "entrezId": 40593,
       "name": "FBgn0010750",
-      "symbols": [
-        "atms"
-      ],
+      "symbols": "atms",
       "reagents": [
         {
           "reagentName": "DRSC12310",
@@ -1075,11 +1038,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43149,
+      "id": "43149FBgn0015269",
+      "entrezId": 43149,
       "name": "FBgn0015269",
-      "symbols": [
-        "Nf1"
-      ],
+      "symbols": "Nf1",
       "reagents": [
         {
           "reagentName": "DRSC16758",
@@ -1103,11 +1065,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43449,
+      "id": "43449FBgn0028692",
+      "entrezId": 43449,
       "name": "FBgn0028692",
-      "symbols": [
-        "Rpn2"
-      ],
+      "symbols": "Rpn2",
       "reagents": [
         {
           "reagentName": "DRSC16839",
@@ -1131,11 +1092,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43563,
+      "id": "43563FBgn0039738",
+      "entrezId": 43563,
       "name": "FBgn0039738",
-      "symbols": [
-        "Mgat2"
-      ],
+      "symbols": "Mgat2",
       "reagents": [
         {
           "reagentName": "DRSC16347",
@@ -1159,11 +1119,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43625,
+      "id": "43625FBgn0039780",
+      "entrezId": 43625,
       "name": "FBgn0039780",
-      "symbols": [
-        "PH4alphaNE1"
-      ],
+      "symbols": "PH4alphaNE1",
       "reagents": [
         {
           "reagentName": "DRSC16546",
@@ -1187,11 +1146,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43689,
+      "id": "43689FBgn0039827",
+      "entrezId": 43689,
       "name": "FBgn0039827",
-      "symbols": [
-        "CG1544"
-      ],
+      "symbols": "CG1544",
       "reagents": [
         {
           "reagentName": "DRSC15036",
@@ -1215,11 +1173,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43718,
+      "id": "43718FBgn0043900",
+      "entrezId": 43718,
       "name": "FBgn0043900",
-      "symbols": [
-        "pygo"
-      ],
+      "symbols": "pygo",
       "reagents": [
         {
           "reagentName": "DRSC14322",
@@ -1239,11 +1196,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43737,
+      "id": "43737FBgn0039869",
+      "entrezId": 43737,
       "name": "FBgn0039869",
-      "symbols": [
-        "CG1890"
-      ],
+      "symbols": "CG1890",
       "reagents": [
         {
           "reagentName": "DRSC15395",
@@ -1263,11 +1219,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43758,
+      "id": "43758FBgn0039883",
+      "entrezId": 43758,
       "name": "FBgn0039883",
-      "symbols": [
-        "RhoGAP100F"
-      ],
+      "symbols": "RhoGAP100F",
       "reagents": [
         {
           "reagentName": "DRSC15409",
@@ -1291,11 +1246,10 @@ var real = [
   },
   {
     "node": {
-      "id": 44013,
+      "id": "44013FBgn0003432",
+      "entrezId": 44013,
       "name": "FBgn0003432",
-      "symbols": [
-        "sls"
-      ],
+      "symbols": "sls",
       "reagents": [
         {
           "reagentName": "DRSC08528",
@@ -1335,11 +1289,10 @@ var real = [
   },
   {
     "node": {
-      "id": 45250,
+      "id": "45250FBgn0028969",
+      "entrezId": 45250,
       "name": "FBgn0028969",
-      "symbols": [
-        "deltaCOP"
-      ],
+      "symbols": "deltaCOP",
       "reagents": [
         {
           "reagentName": "DRSC18760",
@@ -1363,11 +1316,10 @@ var real = [
   },
   {
     "node": {
-      "id": 45525,
+      "id": "45525FBgn0015218",
+      "entrezId": 45525,
       "name": "FBgn0015218",
-      "symbols": [
-        "eIF-4E"
-      ],
+      "symbols": "eIF-4E",
       "reagents": [
         {
           "reagentName": "DRSC11342",
@@ -1387,11 +1339,10 @@ var real = [
   },
   {
     "node": {
-      "id": 326148,
+      "id": "326148FBgn0051523",
+      "entrezId": 326148,
       "name": "FBgn0051523",
-      "symbols": [
-        "CG31523"
-      ],
+      "symbols": "CG31523",
       "reagents": [
         {
           "reagentName": "DRSC12009",
@@ -1415,269 +1366,268 @@ var real = [
   },
   {
     "edge": {
-      "source": 32314,
+      "source": "32314FBgn0004169",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 32794,
+      "source": "32794FBgn0004028",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 35007,
+      "source": "35007FBgn0002741",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39002,
+      "source": "39002FBgn0003149",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39165,
+      "source": "39165FBgn0025866",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40232,
+      "source": "40232FBgn0003124",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43587,
+      "source": "43587FBgn0002773",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43633,
+      "source": "43633FBgn0082582",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43814,
+      "source": "43814FBgn0005666",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 49090,
+      "source": "49090FBgn0011286",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 31166,
+      "source": "31166FBgn0000667",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 31196,
+      "source": "31196FBgn0024984",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 31350,
+      "source": "31350FBgn0029688",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 31554,
+      "source": "31554FBgn0003514",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 33845,
+      "source": "33845FBgn0025742",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 36405,
+      "source": "36405FBgn0026619",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 37190,
+      "source": "37190FBgn0034412",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39179,
+      "source": "39179FBgn0036068",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39628,
+      "source": "39628FBgn0023174",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39765,
+      "source": "39765FBgn0010280",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39775,
+      "source": "39775FBgn0036579",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 39855,
+      "source": "39855FBgn0002284",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40143,
+      "source": "40143FBgn0036896",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40174,
+      "source": "40174FBgn0028695",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40272,
+      "source": "40272FBgn0037001",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40368,
+      "source": "40368FBgn0027542",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40530,
+      "source": "40530FBgn0015331",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40542,
+      "source": "40542FBgn0037231",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40546,
+      "source": "40546FBgn0027866",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40559,
+      "source": "40559FBgn0037245",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 40593,
+      "source": "40593FBgn0010750",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43149,
+      "source": "43149FBgn0015269",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43449,
+      "source": "43449FBgn0028692",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43563,
+      "source": "43563FBgn0039738",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43625,
+      "source": "43625FBgn0039780",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43689,
+      "source": "43689FBgn0039827",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43718,
+      "source": "43718FBgn0043900",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43737,
+      "source": "43737FBgn0039869",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 43758,
+      "source": "43758FBgn0039883",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 44013,
+      "source": "44013FBgn0003432",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 45250,
+      "source": "45250FBgn0028969",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 45525,
+      "source": "45525FBgn0015218",
       "target": "Muscles spread"
     }
   },
   {
     "edge": {
-      "source": 326148,
+      "source": "326148FBgn0051523",
       "target": "Muscles spread"
     }
   },
   {
     "node": {
-      "id": 32314,
+      "id": "32314FBgn0004169",
+      "entrezId": 32314,
       "name": "FBgn0004169",
-      "symbols": [
-        "up"
-      ],
+      "symbols": "up",
       "reagents": [
         {
           "reagentName": "DRSC20382",
@@ -1697,11 +1647,10 @@ var real = [
   },
   {
     "node": {
-      "id": 32794,
+      "id": "32794FBgn0004028",
+      "entrezId": 32794,
       "name": "FBgn0004028",
-      "symbols": [
-        "wupA"
-      ],
+      "symbols": "wupA",
       "reagents": [
         {
           "reagentName": "DRSC20385",
@@ -1729,11 +1678,10 @@ var real = [
   },
   {
     "node": {
-      "id": 35007,
+      "id": "35007FBgn0002741",
+      "entrezId": 35007,
       "name": "FBgn0002741",
-      "symbols": [
-        "Mhc"
-      ],
+      "symbols": "Mhc",
       "reagents": [
         {
           "reagentName": "DRSC03367",
@@ -1761,11 +1709,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39002,
+      "id": "39002FBgn0003149",
+      "entrezId": 39002,
       "name": "FBgn0003149",
-      "symbols": [
-        "Prm"
-      ],
+      "symbols": "Prm",
       "reagents": [
         {
           "reagentName": "DRSC11255",
@@ -1789,11 +1736,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39165,
+      "id": "39165FBgn0025866",
+      "entrezId": 39165,
       "name": "FBgn0025866",
-      "symbols": [
-        "CalpB"
-      ],
+      "symbols": "CalpB",
       "reagents": [
         {
           "reagentName": "DRSC11109",
@@ -1813,11 +1759,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40232,
+      "id": "40232FBgn0003124",
+      "entrezId": 40232,
       "name": "FBgn0003124",
-      "symbols": [
-        "polo"
-      ],
+      "symbols": "polo",
       "reagents": [
         {
           "reagentName": "DRSC11384",
@@ -1841,11 +1786,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43587,
+      "id": "43587FBgn0002773",
+      "entrezId": 43587,
       "name": "FBgn0002773",
-      "symbols": [
-        "Mlc2"
-      ],
+      "symbols": "Mlc2",
       "reagents": [
         {
           "reagentName": "DRSC16741",
@@ -1869,11 +1813,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43633,
+      "id": "43633FBgn0082582",
+      "entrezId": 43633,
       "name": "FBgn0082582",
-      "symbols": [
-        "Tmod"
-      ],
+      "symbols": "Tmod",
       "reagents": [
         {
           "reagentName": "DRSC17062",
@@ -1897,11 +1840,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43814,
+      "id": "43814FBgn0005666",
+      "entrezId": 43814,
       "name": "FBgn0005666",
-      "symbols": [
-        "bt"
-      ],
+      "symbols": "bt",
       "reagents": [
         {
           "reagentName": "DRSC17129",
@@ -1937,11 +1879,10 @@ var real = [
   },
   {
     "node": {
-      "id": 49090,
+      "id": "49090FBgn0011286",
+      "entrezId": 49090,
       "name": "FBgn0011286",
-      "symbols": [
-        "Rya-r44F"
-      ],
+      "symbols": "Rya-r44F",
       "reagents": [
         {
           "reagentName": "DRSC07543",
@@ -1957,71 +1898,70 @@ var real = [
   },
   {
     "edge": {
-      "source": 32314,
+      "source": "32314FBgn0004169",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 32794,
+      "source": "32794FBgn0004028",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 35007,
+      "source": "35007FBgn0002741",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39002,
+      "source": "39002FBgn0003149",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39165,
+      "source": "39165FBgn0025866",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40232,
+      "source": "40232FBgn0003124",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43587,
+      "source": "43587FBgn0002773",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43633,
+      "source": "43633FBgn0082582",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43814,
+      "source": "43814FBgn0005666",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 49090,
+      "source": "49090FBgn0011286",
       "target": "actin and myosin filaments lack striation"
     }
   },
   {
     "node": {
-      "id": 31166,
+      "id": "31166FBgn0000667",
+      "entrezId": 31166,
       "name": "FBgn0000667",
-      "symbols": [
-        "Actn"
-      ],
+      "symbols": "Actn",
       "reagents": [
         {
           "reagentName": "DRSC17724",
@@ -2045,11 +1985,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31196,
+      "id": "31196FBgn0024984",
+      "entrezId": 31196,
       "name": "FBgn0024984",
-      "symbols": [
-        "CG3457"
-      ],
+      "symbols": "CG3457",
       "reagents": [
         {
           "reagentName": "DRSC18509",
@@ -2069,11 +2008,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31350,
+      "id": "31350FBgn0029688",
+      "entrezId": 31350,
       "name": "FBgn0029688",
-      "symbols": [
-        "lva"
-      ],
+      "symbols": "lva",
       "reagents": [
         {
           "reagentName": "DRSC18403",
@@ -2097,11 +2035,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31554,
+      "id": "31554FBgn0003514",
+      "entrezId": 31554,
       "name": "FBgn0003514",
-      "symbols": [
-        "sqh"
-      ],
+      "symbols": "sqh",
       "reagents": [
         {
           "reagentName": "DRSC18837",
@@ -2129,11 +2066,10 @@ var real = [
   },
   {
     "node": {
-      "id": 33845,
+      "id": "33845FBgn0025742",
+      "entrezId": 33845,
       "name": "FBgn0025742",
-      "symbols": [
-        "mtm"
-      ],
+      "symbols": "mtm",
       "reagents": [
         {
           "reagentName": "DRSC03576",
@@ -2161,11 +2097,10 @@ var real = [
   },
   {
     "node": {
-      "id": 36405,
+      "id": "36405FBgn0026619",
+      "entrezId": 36405,
       "name": "FBgn0026619",
-      "symbols": [
-        "tafazzin"
-      ],
+      "symbols": "tafazzin",
       "reagents": [
         {
           "reagentName": "DRSC07704",
@@ -2189,11 +2124,10 @@ var real = [
   },
   {
     "node": {
-      "id": 37190,
+      "id": "37190FBgn0034412",
+      "entrezId": 37190,
       "name": "FBgn0034412",
-      "symbols": [
-        "CG15105"
-      ],
+      "symbols": "CG15105",
       "reagents": [
         {
           "reagentName": "DRSC05768",
@@ -2217,11 +2151,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39179,
+      "id": "39179FBgn0036068",
+      "entrezId": 39179,
       "name": "FBgn0036068",
-      "symbols": [
-        "CG6640"
-      ],
+      "symbols": "CG6640",
       "reagents": [
         {
           "reagentName": "DRSC10681",
@@ -2241,11 +2174,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39628,
+      "id": "39628FBgn0023174",
+      "entrezId": 39628,
       "name": "FBgn0023174",
-      "symbols": [
-        "Prosbeta2"
-      ],
+      "symbols": "Prosbeta2",
       "reagents": [
         {
           "reagentName": "DRSC11257",
@@ -2265,11 +2197,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39765,
+      "id": "39765FBgn0010280",
+      "entrezId": 39765,
       "name": "FBgn0010280",
-      "symbols": [
-        "Taf4"
-      ],
+      "symbols": "Taf4",
       "reagents": [
         {
           "reagentName": "DRSC11297",
@@ -2289,11 +2220,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39775,
+      "id": "39775FBgn0036579",
+      "entrezId": 39775,
       "name": "FBgn0036579",
-      "symbols": [
-        "CG5027"
-      ],
+      "symbols": "CG5027",
       "reagents": [
         {
           "reagentName": "DRSC10471",
@@ -2313,11 +2243,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39855,
+      "id": "39855FBgn0002284",
+      "entrezId": 39855,
       "name": "FBgn0002284",
-      "symbols": [
-        "Pros26"
-      ],
+      "symbols": "Pros26",
       "reagents": [
         {
           "reagentName": "DRSC11256",
@@ -2337,11 +2266,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40143,
+      "id": "40143FBgn0036896",
+      "entrezId": 40143,
       "name": "FBgn0036896",
-      "symbols": [
-        "CG8789"
-      ],
+      "symbols": "CG8789",
       "reagents": [
         {
           "reagentName": "DRSC11046",
@@ -2361,11 +2289,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40174,
+      "id": "40174FBgn0028695",
+      "entrezId": 40174,
       "name": "FBgn0028695",
-      "symbols": [
-        "Rpn1"
-      ],
+      "symbols": "Rpn1",
       "reagents": [
         {
           "reagentName": "DRSC11274",
@@ -2389,11 +2316,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40272,
+      "id": "40272FBgn0037001",
+      "entrezId": 40272,
       "name": "FBgn0037001",
-      "symbols": [
-        "CG6020"
-      ],
+      "symbols": "CG6020",
       "reagents": [
         {
           "reagentName": "DRSC11791",
@@ -2417,11 +2343,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40368,
+      "id": "40368FBgn0027542",
+      "entrezId": 40368,
       "name": "FBgn0027542",
-      "symbols": [
-        "CG6014"
-      ],
+      "symbols": "CG6014",
       "reagents": [
         {
           "reagentName": "DRSC11609",
@@ -2445,11 +2370,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40530,
+      "id": "40530FBgn0015331",
+      "entrezId": 40530,
       "name": "FBgn0015331",
-      "symbols": [
-        "abs"
-      ],
+      "symbols": "abs",
       "reagents": [
         {
           "reagentName": "DRSC12372",
@@ -2469,11 +2393,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40542,
+      "id": "40542FBgn0037231",
+      "entrezId": 40542,
       "name": "FBgn0037231",
-      "symbols": [
-        "CG9779"
-      ],
+      "symbols": "CG9779",
       "reagents": [
         {
           "reagentName": "DRSC12332",
@@ -2493,11 +2416,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40546,
+      "id": "40546FBgn0027866",
+      "entrezId": 40546,
       "name": "FBgn0027866",
-      "symbols": [
-        "CG9776"
-      ],
+      "symbols": "CG9776",
       "reagents": [
         {
           "reagentName": "DRSC12127",
@@ -2517,11 +2439,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40559,
+      "id": "40559FBgn0037245",
+      "entrezId": 40559,
       "name": "FBgn0037245",
-      "symbols": [
-        "CG14648"
-      ],
+      "symbols": "CG14648",
       "reagents": [
         {
           "reagentName": "DRSC12002",
@@ -2541,11 +2462,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40593,
+      "id": "40593FBgn0010750",
+      "entrezId": 40593,
       "name": "FBgn0010750",
-      "symbols": [
-        "atms"
-      ],
+      "symbols": "atms",
       "reagents": [
         {
           "reagentName": "DRSC12310",
@@ -2569,11 +2489,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43149,
+      "id": "43149FBgn0015269",
+      "entrezId": 43149,
       "name": "FBgn0015269",
-      "symbols": [
-        "Nf1"
-      ],
+      "symbols": "Nf1",
       "reagents": [
         {
           "reagentName": "DRSC16758",
@@ -2597,11 +2516,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43449,
+      "id": "43449FBgn0028692",
+      "entrezId": 43449,
       "name": "FBgn0028692",
-      "symbols": [
-        "Rpn2"
-      ],
+      "symbols": "Rpn2",
       "reagents": [
         {
           "reagentName": "DRSC16839",
@@ -2625,11 +2543,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43563,
+      "id": "43563FBgn0039738",
+      "entrezId": 43563,
       "name": "FBgn0039738",
-      "symbols": [
-        "Mgat2"
-      ],
+      "symbols": "Mgat2",
       "reagents": [
         {
           "reagentName": "DRSC16347",
@@ -2653,11 +2570,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43625,
+      "id": "43625FBgn0039780",
+      "entrezId": 43625,
       "name": "FBgn0039780",
-      "symbols": [
-        "PH4alphaNE1"
-      ],
+      "symbols": "PH4alphaNE1",
       "reagents": [
         {
           "reagentName": "DRSC16546",
@@ -2681,11 +2597,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43689,
+      "id": "43689FBgn0039827",
+      "entrezId": 43689,
       "name": "FBgn0039827",
-      "symbols": [
-        "CG1544"
-      ],
+      "symbols": "CG1544",
       "reagents": [
         {
           "reagentName": "DRSC15036",
@@ -2709,11 +2624,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43718,
+      "id": "43718FBgn0043900",
+      "entrezId": 43718,
       "name": "FBgn0043900",
-      "symbols": [
-        "pygo"
-      ],
+      "symbols": "pygo",
       "reagents": [
         {
           "reagentName": "DRSC14322",
@@ -2733,11 +2647,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43737,
+      "id": "43737FBgn0039869",
+      "entrezId": 43737,
       "name": "FBgn0039869",
-      "symbols": [
-        "CG1890"
-      ],
+      "symbols": "CG1890",
       "reagents": [
         {
           "reagentName": "DRSC15395",
@@ -2757,11 +2670,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43758,
+      "id": "43758FBgn0039883",
+      "entrezId": 43758,
       "name": "FBgn0039883",
-      "symbols": [
-        "RhoGAP100F"
-      ],
+      "symbols": "RhoGAP100F",
       "reagents": [
         {
           "reagentName": "DRSC15409",
@@ -2785,11 +2697,10 @@ var real = [
   },
   {
     "node": {
-      "id": 44013,
+      "id": "44013FBgn0003432",
+      "entrezId": 44013,
       "name": "FBgn0003432",
-      "symbols": [
-        "sls"
-      ],
+      "symbols": "sls",
       "reagents": [
         {
           "reagentName": "DRSC08528",
@@ -2829,11 +2740,10 @@ var real = [
   },
   {
     "node": {
-      "id": 45250,
+      "id": "45250FBgn0028969",
+      "entrezId": 45250,
       "name": "FBgn0028969",
-      "symbols": [
-        "deltaCOP"
-      ],
+      "symbols": "deltaCOP",
       "reagents": [
         {
           "reagentName": "DRSC18760",
@@ -2857,11 +2767,10 @@ var real = [
   },
   {
     "node": {
-      "id": 45525,
+      "id": "45525FBgn0015218",
+      "entrezId": 45525,
       "name": "FBgn0015218",
-      "symbols": [
-        "eIF-4E"
-      ],
+      "symbols": "eIF-4E",
       "reagents": [
         {
           "reagentName": "DRSC11342",
@@ -2881,11 +2790,10 @@ var real = [
   },
   {
     "node": {
-      "id": 326148,
+      "id": "326148FBgn0051523",
+      "entrezId": 326148,
       "name": "FBgn0051523",
-      "symbols": [
-        "CG31523"
-      ],
+      "symbols": "CG31523",
       "reagents": [
         {
           "reagentName": "DRSC12009",
@@ -2909,209 +2817,208 @@ var real = [
   },
   {
     "edge": {
-      "source": 31166,
+      "source": "31166FBgn0000667",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 31196,
+      "source": "31196FBgn0024984",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 31350,
+      "source": "31350FBgn0029688",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 31554,
+      "source": "31554FBgn0003514",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 33845,
+      "source": "33845FBgn0025742",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 36405,
+      "source": "36405FBgn0026619",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 37190,
+      "source": "37190FBgn0034412",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 39179,
+      "source": "39179FBgn0036068",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 39628,
+      "source": "39628FBgn0023174",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 39765,
+      "source": "39765FBgn0010280",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 39775,
+      "source": "39775FBgn0036579",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 39855,
+      "source": "39855FBgn0002284",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40143,
+      "source": "40143FBgn0036896",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40174,
+      "source": "40174FBgn0028695",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40272,
+      "source": "40272FBgn0037001",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40368,
+      "source": "40368FBgn0027542",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40530,
+      "source": "40530FBgn0015331",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40542,
+      "source": "40542FBgn0037231",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40546,
+      "source": "40546FBgn0027866",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40559,
+      "source": "40559FBgn0037245",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 40593,
+      "source": "40593FBgn0010750",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43149,
+      "source": "43149FBgn0015269",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43449,
+      "source": "43449FBgn0028692",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43563,
+      "source": "43563FBgn0039738",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43625,
+      "source": "43625FBgn0039780",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43689,
+      "source": "43689FBgn0039827",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43718,
+      "source": "43718FBgn0043900",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43737,
+      "source": "43737FBgn0039869",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 43758,
+      "source": "43758FBgn0039883",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 44013,
+      "source": "44013FBgn0003432",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 45250,
+      "source": "45250FBgn0028969",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 45525,
+      "source": "45525FBgn0015218",
       "target": "myosin filaments striated"
     }
   },
   {
     "edge": {
-      "source": 326148,
+      "source": "326148FBgn0051523",
       "target": "myosin filaments striated"
     }
   },
   {
     "node": {
-      "id": 31166,
+      "id": "31166FBgn0000667",
+      "entrezId": 31166,
       "name": "FBgn0000667",
-      "symbols": [
-        "Actn"
-      ],
+      "symbols": "Actn",
       "reagents": [
         {
           "reagentName": "DRSC17724",
@@ -3135,11 +3042,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31196,
+      "id": "31196FBgn0024984",
+      "entrezId": 31196,
       "name": "FBgn0024984",
-      "symbols": [
-        "CG3457"
-      ],
+      "symbols": "CG3457",
       "reagents": [
         {
           "reagentName": "DRSC18509",
@@ -3159,11 +3065,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31350,
+      "id": "31350FBgn0029688",
+      "entrezId": 31350,
       "name": "FBgn0029688",
-      "symbols": [
-        "lva"
-      ],
+      "symbols": "lva",
       "reagents": [
         {
           "reagentName": "DRSC18403",
@@ -3187,11 +3092,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31554,
+      "id": "31554FBgn0003514",
+      "entrezId": 31554,
       "name": "FBgn0003514",
-      "symbols": [
-        "sqh"
-      ],
+      "symbols": "sqh",
       "reagents": [
         {
           "reagentName": "DRSC18837",
@@ -3219,11 +3123,10 @@ var real = [
   },
   {
     "node": {
-      "id": 33845,
+      "id": "33845FBgn0025742",
+      "entrezId": 33845,
       "name": "FBgn0025742",
-      "symbols": [
-        "mtm"
-      ],
+      "symbols": "mtm",
       "reagents": [
         {
           "reagentName": "DRSC03576",
@@ -3251,11 +3154,10 @@ var real = [
   },
   {
     "node": {
-      "id": 36405,
+      "id": "36405FBgn0026619",
+      "entrezId": 36405,
       "name": "FBgn0026619",
-      "symbols": [
-        "tafazzin"
-      ],
+      "symbols": "tafazzin",
       "reagents": [
         {
           "reagentName": "DRSC07704",
@@ -3279,11 +3181,10 @@ var real = [
   },
   {
     "node": {
-      "id": 37190,
+      "id": "37190FBgn0034412",
+      "entrezId": 37190,
       "name": "FBgn0034412",
-      "symbols": [
-        "CG15105"
-      ],
+      "symbols": "CG15105",
       "reagents": [
         {
           "reagentName": "DRSC05768",
@@ -3307,11 +3208,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39179,
+      "id": "39179FBgn0036068",
+      "entrezId": 39179,
       "name": "FBgn0036068",
-      "symbols": [
-        "CG6640"
-      ],
+      "symbols": "CG6640",
       "reagents": [
         {
           "reagentName": "DRSC10681",
@@ -3331,11 +3231,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39628,
+      "id": "39628FBgn0023174",
+      "entrezId": 39628,
       "name": "FBgn0023174",
-      "symbols": [
-        "Prosbeta2"
-      ],
+      "symbols": "Prosbeta2",
       "reagents": [
         {
           "reagentName": "DRSC11257",
@@ -3355,11 +3254,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39765,
+      "id": "39765FBgn0010280",
+      "entrezId": 39765,
       "name": "FBgn0010280",
-      "symbols": [
-        "Taf4"
-      ],
+      "symbols": "Taf4",
       "reagents": [
         {
           "reagentName": "DRSC11297",
@@ -3379,11 +3277,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39775,
+      "id": "39775FBgn0036579",
+      "entrezId": 39775,
       "name": "FBgn0036579",
-      "symbols": [
-        "CG5027"
-      ],
+      "symbols": "CG5027",
       "reagents": [
         {
           "reagentName": "DRSC10471",
@@ -3403,11 +3300,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39855,
+      "id": "39855FBgn0002284",
+      "entrezId": 39855,
       "name": "FBgn0002284",
-      "symbols": [
-        "Pros26"
-      ],
+      "symbols": "Pros26",
       "reagents": [
         {
           "reagentName": "DRSC11256",
@@ -3427,11 +3323,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40143,
+      "id": "40143FBgn0036896",
+      "entrezId": 40143,
       "name": "FBgn0036896",
-      "symbols": [
-        "CG8789"
-      ],
+      "symbols": "CG8789",
       "reagents": [
         {
           "reagentName": "DRSC11046",
@@ -3451,11 +3346,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40174,
+      "id": "40174FBgn0028695",
+      "entrezId": 40174,
       "name": "FBgn0028695",
-      "symbols": [
-        "Rpn1"
-      ],
+      "symbols": "Rpn1",
       "reagents": [
         {
           "reagentName": "DRSC11274",
@@ -3479,11 +3373,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40272,
+      "id": "40272FBgn0037001",
+      "entrezId": 40272,
       "name": "FBgn0037001",
-      "symbols": [
-        "CG6020"
-      ],
+      "symbols": "CG6020",
       "reagents": [
         {
           "reagentName": "DRSC11791",
@@ -3507,11 +3400,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40368,
+      "id": "40368FBgn0027542",
+      "entrezId": 40368,
       "name": "FBgn0027542",
-      "symbols": [
-        "CG6014"
-      ],
+      "symbols": "CG6014",
       "reagents": [
         {
           "reagentName": "DRSC11609",
@@ -3535,11 +3427,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40530,
+      "id": "40530FBgn0015331",
+      "entrezId": 40530,
       "name": "FBgn0015331",
-      "symbols": [
-        "abs"
-      ],
+      "symbols": "abs",
       "reagents": [
         {
           "reagentName": "DRSC12372",
@@ -3559,11 +3450,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40542,
+      "id": "40542FBgn0037231",
+      "entrezId": 40542,
       "name": "FBgn0037231",
-      "symbols": [
-        "CG9779"
-      ],
+      "symbols": "CG9779",
       "reagents": [
         {
           "reagentName": "DRSC12332",
@@ -3583,11 +3473,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40546,
+      "id": "40546FBgn0027866",
+      "entrezId": 40546,
       "name": "FBgn0027866",
-      "symbols": [
-        "CG9776"
-      ],
+      "symbols": "CG9776",
       "reagents": [
         {
           "reagentName": "DRSC12127",
@@ -3607,11 +3496,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40559,
+      "id": "40559FBgn0037245",
+      "entrezId": 40559,
       "name": "FBgn0037245",
-      "symbols": [
-        "CG14648"
-      ],
+      "symbols": "CG14648",
       "reagents": [
         {
           "reagentName": "DRSC12002",
@@ -3631,11 +3519,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40593,
+      "id": "40593FBgn0010750",
+      "entrezId": 40593,
       "name": "FBgn0010750",
-      "symbols": [
-        "atms"
-      ],
+      "symbols": "atms",
       "reagents": [
         {
           "reagentName": "DRSC12310",
@@ -3659,11 +3546,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43149,
+      "id": "43149FBgn0015269",
+      "entrezId": 43149,
       "name": "FBgn0015269",
-      "symbols": [
-        "Nf1"
-      ],
+      "symbols": "Nf1",
       "reagents": [
         {
           "reagentName": "DRSC16758",
@@ -3687,11 +3573,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43449,
+      "id": "43449FBgn0028692",
+      "entrezId": 43449,
       "name": "FBgn0028692",
-      "symbols": [
-        "Rpn2"
-      ],
+      "symbols": "Rpn2",
       "reagents": [
         {
           "reagentName": "DRSC16839",
@@ -3715,11 +3600,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43563,
+      "id": "43563FBgn0039738",
+      "entrezId": 43563,
       "name": "FBgn0039738",
-      "symbols": [
-        "Mgat2"
-      ],
+      "symbols": "Mgat2",
       "reagents": [
         {
           "reagentName": "DRSC16347",
@@ -3743,11 +3627,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43625,
+      "id": "43625FBgn0039780",
+      "entrezId": 43625,
       "name": "FBgn0039780",
-      "symbols": [
-        "PH4alphaNE1"
-      ],
+      "symbols": "PH4alphaNE1",
       "reagents": [
         {
           "reagentName": "DRSC16546",
@@ -3771,11 +3654,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43689,
+      "id": "43689FBgn0039827",
+      "entrezId": 43689,
       "name": "FBgn0039827",
-      "symbols": [
-        "CG1544"
-      ],
+      "symbols": "CG1544",
       "reagents": [
         {
           "reagentName": "DRSC15036",
@@ -3799,11 +3681,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43718,
+      "id": "43718FBgn0043900",
+      "entrezId": 43718,
       "name": "FBgn0043900",
-      "symbols": [
-        "pygo"
-      ],
+      "symbols": "pygo",
       "reagents": [
         {
           "reagentName": "DRSC14322",
@@ -3823,11 +3704,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43737,
+      "id": "43737FBgn0039869",
+      "entrezId": 43737,
       "name": "FBgn0039869",
-      "symbols": [
-        "CG1890"
-      ],
+      "symbols": "CG1890",
       "reagents": [
         {
           "reagentName": "DRSC15395",
@@ -3847,11 +3727,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43758,
+      "id": "43758FBgn0039883",
+      "entrezId": 43758,
       "name": "FBgn0039883",
-      "symbols": [
-        "RhoGAP100F"
-      ],
+      "symbols": "RhoGAP100F",
       "reagents": [
         {
           "reagentName": "DRSC15409",
@@ -3875,11 +3754,10 @@ var real = [
   },
   {
     "node": {
-      "id": 44013,
+      "id": "44013FBgn0003432",
+      "entrezId": 44013,
       "name": "FBgn0003432",
-      "symbols": [
-        "sls"
-      ],
+      "symbols": "sls",
       "reagents": [
         {
           "reagentName": "DRSC08528",
@@ -3919,11 +3797,10 @@ var real = [
   },
   {
     "node": {
-      "id": 45250,
+      "id": "45250FBgn0028969",
+      "entrezId": 45250,
       "name": "FBgn0028969",
-      "symbols": [
-        "deltaCOP"
-      ],
+      "symbols": "deltaCOP",
       "reagents": [
         {
           "reagentName": "DRSC18760",
@@ -3947,11 +3824,10 @@ var real = [
   },
   {
     "node": {
-      "id": 45525,
+      "id": "45525FBgn0015218",
+      "entrezId": 45525,
       "name": "FBgn0015218",
-      "symbols": [
-        "eIF-4E"
-      ],
+      "symbols": "eIF-4E",
       "reagents": [
         {
           "reagentName": "DRSC11342",
@@ -3971,11 +3847,10 @@ var real = [
   },
   {
     "node": {
-      "id": 326148,
+      "id": "326148FBgn0051523",
+      "entrezId": 326148,
       "name": "FBgn0051523",
-      "symbols": [
-        "CG31523"
-      ],
+      "symbols": "CG31523",
       "reagents": [
         {
           "reagentName": "DRSC12009",
@@ -3999,209 +3874,208 @@ var real = [
   },
   {
     "edge": {
-      "source": 31166,
+      "source": "31166FBgn0000667",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 31196,
+      "source": "31196FBgn0024984",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 31350,
+      "source": "31350FBgn0029688",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 31554,
+      "source": "31554FBgn0003514",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 33845,
+      "source": "33845FBgn0025742",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 36405,
+      "source": "36405FBgn0026619",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 37190,
+      "source": "37190FBgn0034412",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39179,
+      "source": "39179FBgn0036068",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39628,
+      "source": "39628FBgn0023174",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39765,
+      "source": "39765FBgn0010280",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39775,
+      "source": "39775FBgn0036579",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 39855,
+      "source": "39855FBgn0002284",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40143,
+      "source": "40143FBgn0036896",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40174,
+      "source": "40174FBgn0028695",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40272,
+      "source": "40272FBgn0037001",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40368,
+      "source": "40368FBgn0027542",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40530,
+      "source": "40530FBgn0015331",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40542,
+      "source": "40542FBgn0037231",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40546,
+      "source": "40546FBgn0027866",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40559,
+      "source": "40559FBgn0037245",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 40593,
+      "source": "40593FBgn0010750",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43149,
+      "source": "43149FBgn0015269",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43449,
+      "source": "43449FBgn0028692",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43563,
+      "source": "43563FBgn0039738",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43625,
+      "source": "43625FBgn0039780",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43689,
+      "source": "43689FBgn0039827",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43718,
+      "source": "43718FBgn0043900",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43737,
+      "source": "43737FBgn0039869",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 43758,
+      "source": "43758FBgn0039883",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 44013,
+      "source": "44013FBgn0003432",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 45250,
+      "source": "45250FBgn0028969",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 45525,
+      "source": "45525FBgn0015218",
       "target": "actin filaments lack striation"
     }
   },
   {
     "edge": {
-      "source": 326148,
+      "source": "326148FBgn0051523",
       "target": "actin filaments lack striation"
     }
   },
   {
     "node": {
-      "id": 31201,
+      "id": "31201FBgn0004397",
+      "entrezId": 31201,
       "name": "FBgn0004397",
-      "symbols": [
-        "Vinc"
-      ],
+      "symbols": "Vinc",
       "reagents": [
         {
           "reagentName": "DRSC18728",
@@ -4225,11 +4099,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31208,
+      "id": "31208FBgn0000377",
+      "entrezId": 31208,
       "name": "FBgn0000377",
-      "symbols": [
-        "crn"
-      ],
+      "symbols": "crn",
       "reagents": [
         {
           "reagentName": "DRSC18184",
@@ -4253,11 +4126,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31243,
+      "id": "31243FBgn0029629",
+      "entrezId": 31243,
       "name": "FBgn0029629",
-      "symbols": [
-        "CG8636"
-      ],
+      "symbols": "CG8636",
       "reagents": [
         {
           "reagentName": "DRSC18427",
@@ -4277,11 +4149,10 @@ var real = [
   },
   {
     "node": {
-      "id": 31521,
+      "id": "31521FBgn0000042",
+      "entrezId": 31521,
       "name": "FBgn0000042",
-      "symbols": [
-        "Act5C"
-      ],
+      "symbols": "Act5C",
       "reagents": [
         {
           "reagentName": "DRSC17723",
@@ -4305,11 +4176,10 @@ var real = [
   },
   {
     "node": {
-      "id": 35526,
+      "id": "35526FBgn0000043",
+      "entrezId": 35526,
       "name": "FBgn0000043",
-      "symbols": [
-        "Act42A"
-      ],
+      "symbols": "Act42A",
       "reagents": [
         {
           "reagentName": "DRSC04835",
@@ -4329,11 +4199,10 @@ var real = [
   },
   {
     "node": {
-      "id": 37368,
+      "id": "37368FBgn0000044",
+      "entrezId": 37368,
       "name": "FBgn0000044",
-      "symbols": [
-        "Act57B"
-      ],
+      "symbols": "Act57B",
       "reagents": [
         {
           "reagentName": "DRSC04042",
@@ -4353,11 +4222,10 @@ var real = [
   },
   {
     "node": {
-      "id": 38721,
+      "id": "38721FBgn0024921",
+      "entrezId": 38721,
       "name": "FBgn0024921",
-      "symbols": [
-        "Trn"
-      ],
+      "symbols": "Trn",
       "reagents": [
         {
           "reagentName": "DRSC11309",
@@ -4381,11 +4249,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39108,
+      "id": "39108FBgn0010408",
+      "entrezId": 39108,
       "name": "FBgn0010408",
-      "symbols": [
-        "RpS9"
-      ],
+      "symbols": "RpS9",
       "reagents": [
         {
           "reagentName": "DRSC11273",
@@ -4409,11 +4276,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39164,
+      "id": "39164FBgn0011836",
+      "entrezId": 39164,
       "name": "FBgn0011836",
-      "symbols": [
-        "Taf2"
-      ],
+      "symbols": "Taf2",
       "reagents": [
         {
           "reagentName": "DRSC11298",
@@ -4437,11 +4303,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39480,
+      "id": "39480FBgn0014027",
+      "entrezId": 39480,
       "name": "FBgn0014027",
-      "symbols": [
-        "RpS12"
-      ],
+      "symbols": "RpS12",
       "reagents": [
         {
           "reagentName": "DRSC11270",
@@ -4461,11 +4326,10 @@ var real = [
   },
   {
     "node": {
-      "id": 39737,
+      "id": "39737FBgn0036548",
+      "entrezId": 39737,
       "name": "FBgn0036548",
-      "symbols": [
-        "CG5931"
-      ],
+      "symbols": "CG5931",
       "reagents": [
         {
           "reagentName": "DRSC10559",
@@ -4489,11 +4353,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40152,
+      "id": "40152FBgn0036904",
+      "entrezId": 40152,
       "name": "FBgn0036904",
-      "symbols": [
-        "CG8743"
-      ],
+      "symbols": "CG8743",
       "reagents": [
         {
           "reagentName": "DRSC11032",
@@ -4517,11 +4380,10 @@ var real = [
   },
   {
     "node": {
-      "id": 40180,
+      "id": "40180FBgn0004852",
+      "entrezId": 40180,
       "name": "FBgn0004852",
-      "symbols": [
-        "Ac76E"
-      ],
+      "symbols": "Ac76E",
       "reagents": [
         {
           "reagentName": "DRSC09642",
@@ -4545,11 +4407,10 @@ var real = [
   },
   {
     "node": {
-      "id": 41377,
+      "id": "41377FBgn0051374",
+      "entrezId": 41377,
       "name": "FBgn0051374",
-      "symbols": [
-        "CG31374"
-      ],
+      "symbols": "CG31374",
       "reagents": [
         {
           "reagentName": "DRSC14925",
@@ -4577,11 +4438,10 @@ var real = [
   },
   {
     "node": {
-      "id": 43349,
+      "id": "43349FBgn0003279",
+      "entrezId": 43349,
       "name": "FBgn0003279",
-      "symbols": [
-        "RpL4"
-      ],
+      "symbols": "RpL4",
       "reagents": [
         {
           "reagentName": "DRSC16833",
@@ -4605,11 +4465,10 @@ var real = [
   },
   {
     "node": {
-      "id": 48632,
+      "id": "48632FBgn0000046",
+      "entrezId": 48632,
       "name": "FBgn0000046",
-      "symbols": [
-        "Act87E"
-      ],
+      "symbols": "Act87E",
       "reagents": [
         {
           "reagentName": "DRSC22578",
@@ -4629,97 +4488,97 @@ var real = [
   },
   {
     "edge": {
-      "source": 31201,
+      "source": "31201FBgn0004397",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 31208,
+      "source": "31208FBgn0000377",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 31243,
+      "source": "31243FBgn0029629",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 31521,
+      "source": "31521FBgn0000042",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 35526,
+      "source": "35526FBgn0000043",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 37368,
+      "source": "37368FBgn0000044",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 38721,
+      "source": "38721FBgn0024921",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 39108,
+      "source": "39108FBgn0010408",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 39164,
+      "source": "39164FBgn0011836",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 39480,
+      "source": "39480FBgn0014027",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 39737,
+      "source": "39737FBgn0036548",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 40152,
+      "source": "40152FBgn0036904",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 40180,
+      "source": "40180FBgn0004852",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 41377,
+      "source": "41377FBgn0051374",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 43349,
+      "source": "43349FBgn0003279",
       "target": "Muscles with short and/or thin myofibrils"
     }
   },
   {
     "edge": {
-      "source": 48632,
+      "source": "48632FBgn0000046",
       "target": "Muscles with short and/or thin myofibrils"
     }
   }
