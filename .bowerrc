@@ -1,0 +1,4 @@
+{
+    "proxy":"http://www-int2.inet.dkfz-heidelberg.de:80",
+    "https-proxy":"http://www-int2.inet.dkfz-heidelberg.de:80"
+}

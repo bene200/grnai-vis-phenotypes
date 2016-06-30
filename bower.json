@@ -1,0 +1,22 @@
+{
+  "name": "grnai-vis-phenotypes",
+  "description": "Visualisation of gene to phenotype relationships on the GenomeRNAi database",
+  "main": "build/phenotypes.js",
+  "authors": [
+    "Benedikt <b.rauscher@dkfz.de> Rauscher"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "genomernai",
+    "phenotype",
+    "visualization"
+  ],
+  "homepage": "https://github.com/bene200/grnai-vis-phenotypes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
