@@ -183,9 +183,10 @@ module.exports = Backbone.View.extend({
     var filterDiv = document.createElement("div");
 
     //set some styles
-    filterDiv.className = "col-md-2";
+    filterDiv.className = "col-md-3";
     filterDiv.style.height = "800px";
     filterDiv.style.zIndex = 1002;
+    filterDiv.style.paddingRight = 0;
     filterDiv.style.borderRight = "1px solid";
     filterDiv.style.borderColor = "#cccccc";
 
@@ -203,9 +204,8 @@ module.exports = Backbone.View.extend({
     html = "\n      <ul class='sidebar-nav' style='list-style: none; padding-left: 0px;'>\n        <li class='sidebar-brand'>\n          <h4>Find and filter</h4>\n        </li>\n        <li>\n          <div id='vis-alert-box' style='width: 80%;'></div>\n        </li>\n        <li>\n          <button type='button' id='vis-refresh-btn' class='btn btn-default' aria-label='left-align' style='outline: none;'>\n            <span id='vis-refresh' aria-hidden='true' style='height: 15px; width: 15px;'></span>\n          </button>\n          <button type='button' id='vis-export-btn' class='btn btn-default' aria-label='left-align' style='outline: none;'>\n            <span id='vis-export' aria-hidden='true' style='height: 15px; width: 15px;'></span>\n          </button>\n        </li>\n        <li>\n          <input type='text' placeholder='Find gene' id='search' aria-describedby='inputSuccess4Status' style='width: 80%;'>\n        </li>\n      </ul>\n    ";
 
     //add button for each phenotype in a scrollable div
-    window.but = phenoNodes;
     var buttons = phenoNodes.map(function (pn) {
-      return "\n        <li>\n          <div class='row'>\n            <div class='col-md-8'>\n              <button type='button' class='btn btn-default phenobtn' style='margin: 5px; width: 100%; white-space: normal; outline: none;'>\n                " + pn.data().name + "\n              </button>\n            </div>\n            <div class='col-md-4'>\n              <ul style=\"list-style-type: none; padding-left: 0px;\">\n                <li><a href=\"http://www.genomernai.org/v16/uniprotLinkout/" + encodeURI(pn.data().name) + "/" + _this.expId + "\" style='font-size: 8; color: #5cb534'\n                  title=\"Get a list of mapped UniProtIDs as *.txt. If you want to submit the list to string-db.org, copy and paste the UniProtIDs into their 'multiple names' text field. NOTE: The number of UniProtIDs may well exceed the number of genes indicated for this phenotype, due to multiple mappings.\"\n                >StringDB</a></li>\n                <li><a href=\"http://www.genomernai.org/v16/download/phenotypes/uniprot/" + encodeURI(pn.data().name) + "/" + _this.expId + "\" style='font-size: 8; color: #5cb534'\n                  title=\"Send a list of UniProtIDs directly to string-db.org. There is a limit on the number of characters for the computed transfer string (2000), so if your list exceeds around 400 IDs you will have to manually extract and submit the list. NOTE: The number of UniProtIDs may well exceed the number of genes indicated for this phenotype, due to multiple mappings.\"\n                >UniprotIDs</a></li>\n              </ul>\n            </div>\n          </div>\n        </li>\n      ";
+      return "\n        <li>\n          <div class='row' style='margin-bottom: 0;'>\n            <div class='col-md-8' style='padding-top: 0; padding-bottom: 0;'>\n              <button type='button' class='btn btn-default phenobtn' style='margin: 5px; width: 100%; white-space: normal; outline: none;'>\n                " + pn.data().name + "\n              </button>\n            </div>\n            <div class='col-md-4' style='padding-top: 0; padding-bottom: 0;'>\n              <ul style=\"list-style-type: none; padding-left: 0px;\">\n                <li><a href=\"http://www.genomernai.org/v16/uniprotLinkout/" + encodeURI(pn.data().name) + "/" + _this.expId + "\" style='font-size: 8pt; color: #5cb534'\n                  title=\"Get a list of mapped UniProtIDs as *.txt. If you want to submit the list to string-db.org, copy and paste the UniProtIDs into their 'multiple names' text field. NOTE: The number of UniProtIDs may well exceed the number of genes indicated for this phenotype, due to multiple mappings.\"\n                >StringDB</a></li>\n                <li><a href=\"http://www.genomernai.org/v16/download/phenotypes/uniprot/" + encodeURI(pn.data().name) + "/" + _this.expId + "\" style='font-size: 8pt; color: #5cb534'\n                  title=\"Send a list of UniProtIDs directly to string-db.org. There is a limit on the number of characters for the computed transfer string (2000), so if your list exceeds around 400 IDs you will have to manually extract and submit the list. NOTE: The number of UniProtIDs may well exceed the number of genes indicated for this phenotype, due to multiple mappings.\"\n                >UniprotIDs</a></li>\n              </ul>\n            </div>\n          </div>\n        </li>\n      ";
     }).join('\n');
 
     html += "\n      <div style='width: 100%; height: 500px; overflow-y: auto; overflow-x: hidden;'>\n        <ul style='list-style: none; padding-left: 0px'>\n          " + buttons + "\n        </ul>\n      </div>\n    ";
@@ -375,7 +375,7 @@ module.exports = Backbone.View.extend({
     var cyEl = document.createElement("div");
 
     //set styles
-    $(cyEl).attr('class', 'col-md-10');
+    $(cyEl).attr('class', 'col-md-9');
     cyEl.style.height = "800px";
     cyEl.style.padding = "0px";
 
