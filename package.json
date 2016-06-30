@@ -22,32 +22,47 @@
   ],
   "main": "lib/index.js",
   "scripts": {
-		"test": "echo 'Error: no test specified' && exit 1",
-		"build": "mkdirp build && browserify -r ./:grnai-vis-phenotypes -o build/phenotypes.js",
-		"build-browser": "npm run build",
-		"install": "npm run build",
-		"watch": "watchify -r ./:grnai-vis-phenotypes -v -o build/phenotypes.js",
-		"w": "prunner \"npm run sniper\" \"npm run watch\"",
-		"sniper": "sniper ."
+    "test": "echo 'Error: no test specified' && exit 1",
+    "build": "mkdirp build && browserify -r ./:grnai-vis-phenotypes -o build/phenotypes.js -t [ babelify --presets es2015 ]",
+    "build-browser": "npm run build",
+    "install": "npm run build",
+    "watch": "watchify -r ./:grnai-vis-phenotypes -v -o build/phenotypes.js -t [ babelify --presets es2015 ]",
+    "w": "prunner \"npm run sniper\" \"npm run watch\"",
+    "sniper": "sniper ."
   },
-  "dependencies": {},
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "cytoscape": "^2.7.4",
+    "jquery": "^3.0.0",
+    "underscore": "^1.8.3"
+  },
   "devDependencies": {
-		"mkdirp": "^0.5.0",
-		"browserify": "6.x",
-		"sniper": "0.x",
-		"watchify": "^1.0.6",
-		"prunner": "1.x"
+    "babel-preset-es2015": "^6.9.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1",
+    "mkdirp": "^0.5.0",
+    "prunner": "1.x",
+    "sniper": "0.x",
+    "watchify": "^3.7.0"
   },
   "sniper": {
     "js": [
       "/build/phenotypes.js"
     ],
-    "snippets": ["examples"],
+    "snippets": [
+      "examples"
+    ],
     "first": "simple",
     "css": [
       "/css/style.css",
       "/css/bootstrap.css"
     ]
-   },
-  "keywords": ["phenotype","rna","rnai","genomernai","biojs"]
+  },
+  "keywords": [
+    "phenotype",
+    "rna",
+    "rnai",
+    "genomernai",
+    "biojs"
+  ]
 }

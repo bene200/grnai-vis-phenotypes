@@ -2,7 +2,9 @@
 
 [![NPM version](http://img.shields.io/npm/v/grnai-vis-phenotypes.svg)](https://www.npmjs.org/package/grnai-vis-phenotypes)
 
-> Visualisation of gene to phenotype relationships on the GenomeRNAi database
+Gene to phenotype relationship visualization module used in the [GenomeRNAi](http://genomernai.org) database.
+
+![Alt text](./misc/screenshot.png?raw=true "")
 
 ## Getting Started
 Install the module with: `npm install grnai-vis-phenotypes`
@@ -13,11 +15,7 @@ var phenotypes = require('grnai-vis-phenotypes');
 
 ## Documentation
 
-Please have a look at ./examples/simple.js for an example on how to instantiate and use the visualisation.
-
-## Contributing
-
-All contributions are welcome.
+Please have a look at ./examples/simple.js for an example on how to instantiate and use the visualization.
 
 ## Support
 
